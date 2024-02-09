@@ -8,19 +8,16 @@
 87.253.155.104
 # outbound.mail.transip.nl
 149.210.149.75
-# outbound0.mail.transip.nl
+# outbound0-tm-11.mail.transip.nl
 149.210.149.69
-# outbound1.mail.transip.nl
 149.210.149.72
-# outbound2.mail.transip.nl
 149.210.149.73
-# outbound3.mail.transip.nl
 136.144.136.12
-# outbound4.mail.transip.nl
 136.144.136.2
-# outbound5.mail.transip.nl
 136.144.136.9
-# outbound6.mail.transip.nl
 136.144.136.128
-# outbound11.mail.transip.nl
+136.144.136.7
+136.144.136.8
+136.144.136.11
+136.144.136.17
 136.144.136.18

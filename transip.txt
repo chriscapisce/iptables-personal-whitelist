@@ -3,7 +3,7 @@
 # vps.transip.email
 86.105.244.7
 86.105.244.8
-satellite0.overwatch.transip.io
+# satellite0.overwatch.transip.io
 87.253.155.100
 87.253.155.103
 87.253.155.104
